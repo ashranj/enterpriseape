@@ -14,7 +14,7 @@ Feel ffee to access [my portfolio](http://www.pagodasolutions.com).
 >
 > Another line of readme file stuff *italics*
 >
-> Another line of readme file stuff **bold.
+> Another line of readme file stuff **bold**.
 
 ### crazy good 
 * rapid
