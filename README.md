@@ -6,7 +6,7 @@ Powerful software
 
 ### Welcome to the repository
 
-Feel ffee to access [my portfolio]()http://www.pagodasolutions.com).
+Feel ffee to access [my portfolio](http://www.pagodasolutions.com).
 
 > ## This is my headline
 > 
